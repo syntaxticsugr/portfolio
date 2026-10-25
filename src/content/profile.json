@@ -1,0 +1,352 @@
+{
+  "source": {
+    "file": "Profile.pdf",
+    "textFile": "research/profile-source.txt",
+    "extracted": "2026-09-14",
+    "type": "User-supplied LinkedIn profile export",
+    "notes": [
+      "Facts below are transcribed or closely paraphrased from the supplied PDF; no independent employment verification was performed.",
+      "The PDF lists umbrella Founding Engineer roles alongside overlapping intern/developer entries at HeyTheo and MUZEE.AI. These are preserved in sourceRoles; the suggested website groups each employer once rather than implying simultaneous separate jobs.",
+      "Use explicit month/year dates instead of the export’s rounded duration labels.",
+      "United States is the location shown on the experience entries; the profile location is Chandigarh, India. The PDF does not explicitly state remote employment.",
+      "Vediq has no responsibilities, product description, company URL, or metrics in the source. Do not invent them.",
+      "Street/neighborhood and mobile phone are intentionally omitted. No company website URLs are provided in the PDF."
+    ]
+  },
+  "person": {
+    "name": "Aditya Raj",
+    "handle": "syntaxticsugr",
+    "displayHandle": "Syntaxtic Sugr",
+    "location": "Chandigarh, India",
+    "email": "syntaxticsugr@gmail.com",
+    "emailUrl": "mailto:syntaxticsugr@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/syntaxticsugr",
+    "telegram": "https://t.me/syntaxticsugr",
+    "github": "https://github.com/syntaxticsugr",
+    "whatsapp": "https://wa.me/syntaxticsugr",
+    "githubEvidence": "Existing local public profile README and repository READMEs; not listed in the PDF.",
+    "profileHeadline": "Founding Engineer @Vediq @HeyTheo | Building products end to end: cross platform apps, backend services, cloud infra, AI agents, and more :)",
+    "sourcePages": [
+      1
+    ]
+  },
+  "positioning": {
+    "primaryRole": "Founding engineer",
+    "focus": [
+      "Full-stack product development",
+      "Applied AI",
+      "Cross-platform apps",
+      "Backend services",
+      "Cloud infrastructure",
+      "AI agents"
+    ],
+    "summaryFacts": [
+      "Has owned engineering end to end, including design, implementation, deployment, and releases.",
+      "Has worked as the sole engineer building a product from an empty repository.",
+      "Focuses on making models useful within products through MCP servers, RAG pipelines, and agents."
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  "experience": [
+    {
+      "id": "vediq",
+      "company": "Vediq",
+      "role": "Founding Engineer",
+      "start": "2026-08",
+      "end": null,
+      "period": "August 2026 — Present",
+      "locationAsListed": "United States",
+      "companyUrl": null,
+      "summary": "Founding Engineer at Vediq.",
+      "responsibilities": [],
+      "technologies": [],
+      "reportedMetrics": [],
+      "sourceRoles": [
+        {
+          "title": "Founding Engineer",
+          "start": "2026-08",
+          "end": null
+        }
+      ],
+      "sourcePages": [
+        2
+      ],
+      "editorialNote": "Keep this entry concise. The profile supplies no role-specific scope or achievements."
+    },
+    {
+      "id": "heytheo",
+      "company": "HeyTheo",
+      "role": "Founding Engineer",
+      "start": "2025-03",
+      "end": null,
+      "period": "March 2025 — Present",
+      "locationAsListed": "United States",
+      "companyUrl": null,
+      "summary": "Started as the sole engineer and built the product from an empty repository, owning the app, backend, infrastructure, and releases.",
+      "responsibilities": [
+        "Architected a multi-service Python backend and the cross-platform app for mobile and web.",
+        "Designed the AI agent tool layer that lets the model take real actions on a user’s behalf.",
+        "Built data pipelines, an alerting engine, and a strategy backtesting system.",
+        "Owned containerization, cloud deployments, environment management, and public App Store, Play Store, and web releases.",
+        "Established engineering standards, documentation practices, and code review conventions."
+      ],
+      "technologies": [
+        "Python",
+        "Cross-platform mobile and web",
+        "AI tool calling",
+        "Containers",
+        "Cloud infrastructure"
+      ],
+      "reportedMetrics": [],
+      "sourceRoles": [
+        {
+          "title": "Founding Engineer",
+          "start": "2025-03",
+          "end": null
+        },
+        {
+          "title": "Full Stack Developer",
+          "start": "2026-08",
+          "end": null
+        },
+        {
+          "title": "Full Stack Developer",
+          "start": "2025-06",
+          "end": "2026-07"
+        },
+        {
+          "title": "Full Stack Intern",
+          "start": "2025-03",
+          "end": "2025-05"
+        }
+      ],
+      "sourcePages": [
+        1,
+        2
+      ],
+      "editorialNote": "Do not assign Flutter, a specific cloud provider, an LLM vendor, or a financial performance metric to this role; the PDF does not name them."
+    },
+    {
+      "id": "muzee",
+      "company": "MUZEE.AI",
+      "role": "Founding Engineer",
+      "start": "2024-11",
+      "end": "2025-04",
+      "period": "November 2024 — April 2025",
+      "locationAsListed": "United States",
+      "companyUrl": null,
+      "summary": "Joined the founding team of an AI video editing platform on the ML side and expanded into full-stack ownership.",
+      "responsibilities": [
+        "Led development of an AI system for adding foley and background music to silent videos.",
+        "Deployed and served machine learning models on Google Cloud Vertex AI.",
+        "Built a model deployment pipeline with Docker and TorchServe.",
+        "Built interfaces with React and Tailwind CSS and deployed the frontend on AWS Amplify.",
+        "Designed REST APIs with FastAPI and deployed the backend on Beam."
+      ],
+      "technologies": [
+        "Vertex AI",
+        "Docker",
+        "TorchServe",
+        "React",
+        "Tailwind CSS",
+        "AWS Amplify",
+        "FastAPI",
+        "Beam"
+      ],
+      "reportedMetrics": [
+        {
+          "value": "95%",
+          "measure": "Reduction in deployment times",
+          "context": "Docker and TorchServe model deployment pipeline",
+          "sourcePage": 2,
+          "verification": "Explicitly reported in the user-supplied profile; no underlying measurements supplied."
+        },
+        {
+          "value": "90%",
+          "measure": "Reduction in operational costs",
+          "context": "Backend deployment on Beam",
+          "sourcePage": 2,
+          "verification": "Explicitly reported in the user-supplied profile; no underlying measurements supplied."
+        }
+      ],
+      "sourceRoles": [
+        {
+          "title": "Founding Engineer",
+          "start": "2024-11",
+          "end": "2025-04"
+        },
+        {
+          "title": "Full Stack Intern",
+          "start": "2025-02",
+          "end": "2025-03"
+        },
+        {
+          "title": "AI Intern",
+          "start": "2024-11",
+          "end": "2025-01"
+        }
+      ],
+      "sourcePages": [
+        2,
+        3
+      ]
+    }
+  ],
+  "skills": {
+    "topSkillsAsListed": [
+      "Amazon EC2",
+      "Amazon S3",
+      "Amazon Sage Maker"
+    ],
+    "appliedAiFromSummary": [
+      "MCP servers",
+      "RAG pipelines",
+      "AI agents"
+    ],
+    "engineeringFromExperience": [
+      "Python",
+      "Cross-platform apps",
+      "REST APIs",
+      "FastAPI",
+      "React",
+      "Tailwind CSS",
+      "Docker",
+      "TorchServe",
+      "Google Cloud Vertex AI",
+      "AWS Amplify",
+      "Beam",
+      "Data pipelines",
+      "Alerting systems",
+      "Strategy backtesting",
+      "Cloud deployment"
+    ],
+    "sourcePages": [
+      1,
+      2
+    ]
+  },
+  "education": [
+    {
+      "institution": "Chandigarh University",
+      "location": "Punjab, India",
+      "locationSource": "Owner-provided",
+      "degree": "Bachelor of Engineering (BE)",
+      "field": "Computer Science",
+      "start": "2022-08",
+      "end": "2025-06",
+      "sourcePage": 3
+    },
+    {
+      "institution": "Punjab State Board of Technical Education and Industrial Training (PSBTE & IT)",
+      "institutionAsListed": "Punjab State Board of Technical Education and Industrial Training (PSBTE & IT), Chandigarh",
+      "location": "Punjab, India",
+      "locationSource": "Owner-provided",
+      "degreeAsListed": "High School Diploma",
+      "field": "Computer Science",
+      "start": "2019-08",
+      "end": "2022-06",
+      "sourcePage": 3
+    },
+    {
+      "institution": "Shishu Niketan",
+      "location": "Chandigarh, India",
+      "degree": "Class 10",
+      "field": null,
+      "start": null,
+      "end": "2019",
+      "source": "Owner-provided Class 10 qualification, school history and location."
+    }
+  ],
+  "certifications": {
+    "names": [
+      "Principles of UX/UI Design",
+      "Machine Learning Professional",
+      "Data Analytics Professional",
+      "Introduction to Machine Learning",
+      "Programming in Python"
+    ],
+    "sourcePage": 1,
+    "note": "No issuer, credential URL, or certification date is present in the PDF."
+  },
+  "languages": [
+    {
+      "language": "Punjabi",
+      "proficiency": "Limited Working"
+    },
+    {
+      "language": "English",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Japanese",
+      "proficiency": "Elementary"
+    }
+  ],
+  "suggestedWebsiteCopy": {
+    "note": "Original proposed portfolio prose, based on profile facts and the user’s explicit direction to emphasize appropriate LLM delegation. These are editorial proposals, not additional historical claims.",
+    "eyebrow": "FOUNDING ENGINEER / FULL-STACK & APPLIED AI",
+    "headline": "I build the product.\nAnd the intelligence inside it.",
+    "headlineAlternatives": [
+      "From empty repo\nto real-world product.",
+      "Software, end to end.\nIntelligence, put to work."
+    ],
+    "heroDescription": "I’m Aditya Raj. I build cross-platform apps, backend services, cloud infrastructure, and AI agents — and take responsibility for getting the whole thing into people’s hands.",
+    "currentLine": "Founding Engineer at HeyTheo and Vediq · Chandigarh, India",
+    "about": [
+      "I’ve been the person behind the app, the backend, the infrastructure, and the release. At HeyTheo, that started with an empty repository and a team of one.",
+      "My AI work lives inside products: tool interfaces that let agents act, retrieval that gives them context, and the services around them. Before that, I helped build MUZEE.AI’s video editing platform, starting with models that add sound to silent footage.",
+      "I use LLMs for work they can usefully carry forward. The product decisions, engineering judgment, and responsibility for what ships stay with me."
+    ],
+    "workingApproach": [
+      {
+        "title": "Start with the whole product.",
+        "body": "The interface, backend, infrastructure, and release are one connected job. I build with the full path in mind.",
+        "basis": "Profile summary and HeyTheo responsibilities."
+      },
+      {
+        "title": "Give models useful work.",
+        "body": "Connect intelligence to context and tools so it can do something inside the product. MCP, RAG, and agent tool layers are part of that work.",
+        "basis": "Profile summary and HeyTheo AI agent layer."
+      },
+      {
+        "title": "Delegate with judgment.",
+        "body": "I use LLMs where they help move the work forward, while staying responsible for the decisions and the result.",
+        "basis": "User’s explicit statement about using LLM delegation where appropriate, plus profile end-to-end ownership."
+      }
+    ],
+    "jobCopy": {
+      "heytheo": {
+        "headline": "The first commit. The whole product.",
+        "description": "Built from an empty repository as the sole engineer: a Python service backend, a cross-platform app, actionable AI agents, and the infrastructure to ship across mobile and web."
+      },
+      "vediq": {
+        "headline": "A new chapter, from the beginning.",
+        "description": "Founding Engineer · August 2026 — Present."
+      },
+      "muzee": {
+        "headline": "Giving silent video its sound.",
+        "description": "Helped build an AI video editor from scratch, from foley and music generation to model serving, APIs, and the product interface."
+      }
+    },
+    "contactHeading": "Have something worth building?",
+    "contactDescription": "A product to shape, an AI feature to make useful, or a difficult engineering problem. Send me a note."
+  },
+  "referenceInspiration": {
+    "url": "https://portfolio-five-self-60.vercel.app/",
+    "accessed": "2026-09-14",
+    "method": "Read publicly served page HTML with curl after web tool could not open it.",
+    "structuralObservations": [
+      "A specific professional identity and compact argument for the owner’s value appear before the work history.",
+      "Professional experience receives substantial space, with dates, role summaries, concrete responsibilities, and technical illustrations.",
+      "A separate working-method section explains engineering judgment with an interactive process diagram.",
+      "Projects, grouped technical skills, direct email, and résumé access support the career narrative; personal interests have a separate destination."
+    ],
+    "adaptation": "Use a clear professional lead, evidence-rich company entries, an original LLM working-method section, and real contact links. Preserve this site’s distinct visual identity and anime room. Do not borrow the reference author’s text, employers, metrics, evaluation claims, or projects."
+  }
+}

@@ -1,0 +1,651 @@
+{
+  "source": {
+    "url": "https://docs.google.com/document/d/12kxnOGmPGCfq6FSqYo_dR8N1_6-wAvJ0/edit",
+    "exportUrl": "https://docs.google.com/document/d/12kxnOGmPGCfq6FSqYo_dR8N1_6-wAvJ0/export?format=txt",
+    "accessed": "2026-09-14",
+    "title": "Personal anime watchlist",
+    "notes": "Titles and categories preserved from the document. Ongoing progress is transcribed from the Season column; completed entries do not have progress. The source does not contain ratings or identify favorites. Continuity notation in completed titles is retained."
+  },
+  "counts": {
+    "ongoing": 70,
+    "completed": 35,
+    "total": 105
+  },
+  "continuityLegend": {
+    "+": "Continuity",
+    "&": "Alternate",
+    "&+": "Alternate continuity"
+  },
+  "entries": [
+    {
+      "id": 1,
+      "title": "86",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 2,
+      "title": "Apothecary Diaries",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 3,
+      "title": "Arcane",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 4,
+      "title": "Ayakashi + Mononoke",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 5,
+      "title": "Baki",
+      "status": "ongoing",
+      "progress": "~"
+    },
+    {
+      "id": 6,
+      "title": "Big Mouth",
+      "status": "ongoing",
+      "progress": "4"
+    },
+    {
+      "id": 7,
+      "title": "Black Clover",
+      "status": "ongoing",
+      "progress": "4"
+    },
+    {
+      "id": 8,
+      "title": "Bleach",
+      "status": "ongoing",
+      "progress": "16"
+    },
+    {
+      "id": 9,
+      "title": "Blue Exorcist",
+      "status": "ongoing",
+      "progress": "5"
+    },
+    {
+      "id": 10,
+      "title": "Boruto",
+      "status": "ongoing",
+      "progress": "E230"
+    },
+    {
+      "id": 11,
+      "title": "Bungo Stray Dogs",
+      "status": "ongoing",
+      "progress": "5"
+    },
+    {
+      "id": 12,
+      "title": "Chainsaw Man",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 13,
+      "title": "Classroom Of The Elite",
+      "status": "ongoing",
+      "progress": "3"
+    },
+    {
+      "id": 14,
+      "title": "Daily Life Of The Immortal King",
+      "status": "ongoing",
+      "progress": "4"
+    },
+    {
+      "id": 15,
+      "title": "Dandadan",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 16,
+      "title": "Darwin’s Game",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 17,
+      "title": "Dead Dead Demon's Dededede Destruction",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 18,
+      "title": "Demon Slayer",
+      "status": "ongoing",
+      "progress": "4"
+    },
+    {
+      "id": 19,
+      "title": "Devil Is A Part Timer",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 20,
+      "title": "Devilman Crybaby",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 21,
+      "title": "Disastrous Life Of Saiki K.",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 22,
+      "title": "Dorohedoro",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 23,
+      "title": "Dr. Stone",
+      "status": "ongoing",
+      "progress": "4"
+    },
+    {
+      "id": 24,
+      "title": "Eminence In Shadow",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 25,
+      "title": "Fable",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 26,
+      "title": "Fairytale",
+      "status": "ongoing",
+      "progress": "3"
+    },
+    {
+      "id": 27,
+      "title": "Fire Force",
+      "status": "ongoing",
+      "progress": "3"
+    },
+    {
+      "id": 28,
+      "title": "Food Wars",
+      "status": "ongoing",
+      "progress": "5"
+    },
+    {
+      "id": 29,
+      "title": "Great Pretender",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 30,
+      "title": "Heavenly Delusion",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 31,
+      "title": "Hell’s Paradise",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 32,
+      "title": "Jojo’s Bizarre Adventure",
+      "status": "ongoing",
+      "progress": "5"
+    },
+    {
+      "id": 33,
+      "title": "Jujutsu Kaisen",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 34,
+      "title": "Kabaneri Of The Iron Fortress",
+      "status": "ongoing",
+      "progress": "S1 M1"
+    },
+    {
+      "id": 35,
+      "title": "Kaiju Number 8",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 36,
+      "title": "Kingdoms Of Ruin",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 37,
+      "title": "Link Click",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 38,
+      "title": "Lookism",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 39,
+      "title": "Made In Abyss",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 40,
+      "title": "Mashle: Magic And Muscles",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 41,
+      "title": "Misfit Of Demon King Academy",
+      "status": "ongoing",
+      "progress": "1.5"
+    },
+    {
+      "id": 42,
+      "title": "Mushishi",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 43,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 44,
+      "title": "My Hero Academia",
+      "status": "ongoing",
+      "progress": "7"
+    },
+    {
+      "id": 45,
+      "title": "Noragami",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 46,
+      "title": "One Piece",
+      "status": "ongoing",
+      "progress": "E1122"
+    },
+    {
+      "id": 47,
+      "title": "One Punch Man",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 48,
+      "title": "Psycho Pass",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 49,
+      "title": "Ragna Crimson",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 50,
+      "title": "Ranking Of Kings",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 51,
+      "title": "Re:Zero",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 52,
+      "title": "Record Of Ragnarok",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 53,
+      "title": "Rick And Morty",
+      "status": "ongoing",
+      "progress": "4"
+    },
+    {
+      "id": 54,
+      "title": "Rising Of The Shield Hero",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 55,
+      "title": "Sakamoto Days",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 56,
+      "title": "Scissors Seven",
+      "status": "ongoing",
+      "progress": "4"
+    },
+    {
+      "id": 57,
+      "title": "Solo Levelling",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 58,
+      "title": "Spirit Chronicles",
+      "status": "ongoing",
+      "progress": "S2-E8"
+    },
+    {
+      "id": 59,
+      "title": "Spy X Family",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 60,
+      "title": "Sword Art Online",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 61,
+      "title": "Time I Got Reincarnated As A Slime",
+      "status": "ongoing",
+      "progress": "3"
+    },
+    {
+      "id": 62,
+      "title": "To Be Hero X",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 63,
+      "title": "To Your Eternity",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 64,
+      "title": "Tokyo Revengers",
+      "status": "ongoing",
+      "progress": "3"
+    },
+    {
+      "id": 65,
+      "title": "Tomodachi Game",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 66,
+      "title": "Tougen Anki",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 67,
+      "title": "Tower Of Gods",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 68,
+      "title": "Vinland Saga",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 69,
+      "title": "Wind Breaker",
+      "status": "ongoing",
+      "progress": "2"
+    },
+    {
+      "id": 70,
+      "title": "Zom 100: Bucket List Of The Dead",
+      "status": "ongoing",
+      "progress": "1"
+    },
+    {
+      "id": 71,
+      "title": "Another",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 72,
+      "title": "Assassination Classroom",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 73,
+      "title": "Attack On Titan",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 74,
+      "title": "Avatar {The Last Airbender + The Legend Of Korra}",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 75,
+      "title": "Balance Unlimited",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 76,
+      "title": "Code Geass",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 77,
+      "title": "Cowboy Bebop",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 78,
+      "title": "Cyberpunk",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 79,
+      "title": "Death Note",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 80,
+      "title": "Death Parade",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 81,
+      "title": "Dororo",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 82,
+      "title": "Dragon Ball {+ Z &+ Gt + Super}",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 83,
+      "title": "Erased",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 84,
+      "title": "Fullmetal Alchemist {+ Brotherhood}",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 85,
+      "title": "Future Diary",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 86,
+      "title": "Gangsta",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 87,
+      "title": "Grave Of The Fireflies",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 88,
+      "title": "Hunter X Hunter {1999 + 2011}",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 89,
+      "title": "Id: Invaded",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 90,
+      "title": "King’s Game",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 91,
+      "title": "Midori Days",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 92,
+      "title": "Mob Psycho 100",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 93,
+      "title": "Naruto {+ Shippuden}",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 94,
+      "title": "Odd Taxi",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 95,
+      "title": "Paranoia Agent",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 96,
+      "title": "Parasyte",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 97,
+      "title": "Steins Gate {&+ 0}",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 98,
+      "title": "Summer Time Rendering",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 99,
+      "title": "Takopi's Original Sin",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 100,
+      "title": "Terror In Resonance",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 101,
+      "title": "The Promised Neverland",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 102,
+      "title": "The Seven Deadly Sins",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 103,
+      "title": "Tokyo 24th Ward",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 104,
+      "title": "Tokyo Ghoul",
+      "status": "completed",
+      "progress": null
+    },
+    {
+      "id": 105,
+      "title": "Violet Evergarden",
+      "status": "completed",
+      "progress": null
+    }
+  ]
+}
