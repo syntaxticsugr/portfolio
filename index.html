@@ -3,8 +3,47 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>syntaxticsugr — Aditya Raj</title>
+    <meta name="theme-color" content="#eeece5" />
+    <script>
+      (() => {
+        let theme = matchMedia("(prefers-color-scheme: dark)").matches
+          ? "dark"
+          : "light";
+        try {
+          const saved = localStorage.getItem("syntaxticsugr.theme");
+          if (saved === "light" || saved === "dark") theme = saved;
+        } catch {}
+        document.documentElement.dataset.theme = theme;
+        document.documentElement.style.colorScheme = theme;
+        document.querySelector('meta[name="theme-color"]').content =
+          theme === "dark" ? "#151619" : "#eeece5";
+      })();
+    </script>
+    <meta
+      name="description"
+      content="Aditya Raj — founding engineer at HeyTheo and Vediq. Apps, backend systems, infrastructure, and applied AI. ViPER audio presets and anime."
+    />
+    <meta property="og:title" content="syntaxticsugr — Aditya Raj" />
+    <meta
+      property="og:description"
+      content="Aditya Raj’s work: apps, backend services, infrastructure, and applied AI. Plus ViPER audio presets and an anime watchlist."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="syntaxticsugr — Aditya Raj" />
+    <meta
+      name="twitter:description"
+      content="Aditya Raj — product engineering, applied AI, ViPER audio presets, and anime."
+    />
     <link rel="icon" href="data:," />
+    <link
+      rel="preload"
+      href="/fonts/manrope-latin.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <title>syntaxticsugr — Aditya Raj</title>
   </head>
   <body>
     <div id="root"></div>
